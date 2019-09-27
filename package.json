@@ -1,5 +1,5 @@
 {
-  "name": "void-xhr",
+  "name": "@nao20010128nao/void-xhr",
   "version": "1.0.0",
   "description": "XMLHttpRequest that always fail",
   "main": "index.js",
