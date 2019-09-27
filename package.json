@@ -1,0 +1,22 @@
+{
+  "name": "void-xhr",
+  "version": "1.0.0",
+  "description": "XMLHttpRequest that always fail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs-void-requests/void-xhr.git"
+  },
+  "keywords": [
+    "xhr"
+  ],
+  "author": "nao20010128nao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodejs-void-requests/void-xhr/issues"
+  },
+  "homepage": "https://github.com/nodejs-void-requests/void-xhr#readme"
+}
