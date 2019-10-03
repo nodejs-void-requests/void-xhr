@@ -25,7 +25,7 @@ module.exports = class XMLHttpRequest extends EventEmitter {
         loaded: 0
       });
       setTimeout(function() {
-        this.emit("error", {
+        self.emit("error", {
           type: "error",
           loaded: 0
         });
